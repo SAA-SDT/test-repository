@@ -10,9 +10,14 @@
 
 ## The issue relates to
 <!--- Make an 'x' inside the brackets to mark your choice. -->
-- [ ] Tag Library Issue
-- [ ] EAC-CPF Issue
-- [ ] EAD Issue
+- [ ] EAC-CPF schema issue
+- [ ] EAC-CPF Tag Library issue
+- [ ] EAD schema issue
+- [ ] EAD Tag Library issue
+- [ ] Schema issue
+- [ ] Tag Library issue
+- [ ] Suggestions for all schemas
+- [ ] Suggestions for all Tag Libraries
 - [ ] Other
 
 ## Wanted change/feature
